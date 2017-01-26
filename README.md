@@ -1,2 +1,3 @@
 # hello_world
-my first repository
+Hi Its Bama kant
+I like java and thats the reason I made off android developer.
